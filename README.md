@@ -31,7 +31,7 @@ This task involves the design and simulation of a line follower bot circuit that
 | 2. |https://www.geeksforgeeks.org/introduction-of-k-map-karnaugh-map/ | 
 | 3. | https://www.geeksforgeeks.org/half-adder-in-digital-logic/ | 
 | 4 |https://www.geeksforgeeks.org/latches-in-digital-logic/  | 
-| 5.| https://www.ti.com/lit/ds/symlink/adc128s102.pdf(ADC128S102 Datasheet) | 
+| 5.| https://www.ti.com/lit/ds/symlink/adc128s102.pdf | 
 
 ## 🚀 About Me
 Hi, I'm Sayan. 😀👋
